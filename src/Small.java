@@ -6,7 +6,7 @@ public class Small {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("smallHello");
+		System.out.println("smallHello greetings you");
 	}
 
 }
